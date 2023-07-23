@@ -1,4 +1,4 @@
-![Alt Text](relative/path/to/your/image.png)
+![Demo](image-gallery.gif)
 
 
 # Getting Started with Create React App
